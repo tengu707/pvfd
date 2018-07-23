@@ -1,0 +1,38 @@
+{
+  "name": "pvfd",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "npm": "6.1.0",
+    "node": "8.9.4"
+  },
+  "devDependencies": {
+    "enzyme": "^2.8.0",
+    "react-addons-test-utils": "^15.3.0",
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.3",
+    "prop-types": "^15.5.8",
+    "react": "^15.5.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^15.5.0",
+    "react-list": "^0.8.8",
+    "react-loadermixin": "^1.0.4",
+    "react-modal": "^3.1.10",
+    "react-redux": "^5.0.2",
+    "react-responsive-carousel": "^3.1.30",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.5.2",
+    "sfcookies": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  }
+}
